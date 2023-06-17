@@ -14,6 +14,7 @@
 		F6AD9E902A395AA200B9C6FB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F6AD9E8F2A395AA200B9C6FB /* Assets.xcassets */; };
 		F6AD9E932A395AA200B9C6FB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F6AD9E912A395AA200B9C6FB /* LaunchScreen.storyboard */; };
 		F6AD9E9B2A395ACE00B9C6FB /* foodObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6AD9E9A2A395ACE00B9C6FB /* foodObject.swift */; };
+		F6D4F5B32A3DE00700B5CF99 /* fridgeObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6D4F5B22A3DE00700B5CF99 /* fridgeObject.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		F6AD9E922A395AA200B9C6FB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F6AD9E942A395AA200B9C6FB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F6AD9E9A2A395ACE00B9C6FB /* foodObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = foodObject.swift; sourceTree = "<group>"; };
+		F6D4F5B22A3DE00700B5CF99 /* fridgeObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fridgeObject.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				F6AD9E882A395AA100B9C6FB /* SceneDelegate.swift */,
 				F6AD9E8A2A395AA100B9C6FB /* ViewController.swift */,
 				F6AD9E9A2A395ACE00B9C6FB /* foodObject.swift */,
+				F6D4F5B22A3DE00700B5CF99 /* fridgeObject.swift */,
 				F6AD9E8C2A395AA100B9C6FB /* Main.storyboard */,
 				F6AD9E8F2A395AA200B9C6FB /* Assets.xcassets */,
 				F6AD9E912A395AA200B9C6FB /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				F6AD9E872A395AA100B9C6FB /* AppDelegate.swift in Sources */,
 				F6AD9E9B2A395ACE00B9C6FB /* foodObject.swift in Sources */,
 				F6AD9E892A395AA100B9C6FB /* SceneDelegate.swift in Sources */,
+				F6D4F5B32A3DE00700B5CF99 /* fridgeObject.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
